@@ -1,0 +1,280 @@
+@media screen and (max-width: 576px) {
+  body #section1 {
+    width: 100% !important;
+    height: 100vh !important;
+  }
+  body #section1 > span {
+    margin-bottom: -50px;
+    font-size: 20px;
+  }
+  body #section1 > div {
+    border-radius: 20px;
+    transform: translateY(-70px);
+    width: 95%;
+    height: 55%;
+  }
+  body #section1 > div > div:nth-of-type(1) {
+    color: white;
+  }
+  body #section1 > div > div:nth-of-type(1) input {
+    border: 1px solid rgb(28, 28, 28);
+    height: 36% !important;
+    border-radius: 5px;
+    font-size: 14px;
+  }
+  body #section1 > div > div:nth-of-type(1) button {
+    border-radius: 5px;
+    font-size: 14px;
+    height: 36% !important;
+  }
+  body #section1 > div > div:nth-of-type(2) > div {
+    font-size: 12px;
+  }
+  body #section1 > div > div:nth-of-type(2) > div:nth-of-type(1) {
+    font-size: 14px;
+  }
+  body #section1 > div > div:nth-of-type(2) > div:nth-of-type(2) {
+    font-size: 18px;
+  }
+  body #section1 > div > div:nth-of-type(2) > div:nth-of-type(2) span {
+    font-size: 11px;
+  }
+  body #section1 > div > div:nth-of-type(2) > div:nth-of-type(2) > span {
+    left: -91%;
+    top: 40%;
+    width: 100px;
+    height: 50px;
+    font-size: 14px;
+  }
+  body #section1 > div > div:nth-of-type(2) > div:nth-of-type(3) {
+    transform: translateY(-12px);
+  }
+  body #section1 .up {
+    font-size: 12px;
+  }
+  body #section1 .down {
+    font-size: 12px;
+  }
+  body #pop {
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -100%);
+    width: 80%;
+    height: 25%;
+    border: 2px solid rgb(0, 104, 0);
+    font-size: 16px;
+  }
+  body #pop span {
+    top: -2%;
+    left: 93%;
+    font-size: 20px;
+  }
+}
+@media screen and (min-width: 577px) {
+  body #section1 {
+    width: 100% !important;
+    height: 100vh !important;
+  }
+  body #section1 > span {
+    margin-bottom: -45px;
+    font-size: 22px;
+  }
+  body #section1 > div {
+    border-radius: 22px;
+    transform: translateY(-70px);
+    width: 90%;
+    height: 55%;
+  }
+  body #section1 > div > div:nth-of-type(1) {
+    color: white;
+  }
+  body #section1 > div > div:nth-of-type(1) input {
+    border: 1px solid rgb(28, 28, 28);
+    height: 36% !important;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  body #section1 > div > div:nth-of-type(1) button {
+    border-radius: 5px;
+    font-size: 16px;
+    height: 36% !important;
+  }
+  body #section1 > div > div:nth-of-type(2) > div {
+    font-size: 18px;
+  }
+  body #section1 > div > div:nth-of-type(2) > div:nth-of-type(1) {
+    font-size: 18px;
+  }
+  body #section1 > div > div:nth-of-type(2) > div:nth-of-type(2) {
+    font-size: 22px;
+  }
+  body #section1 > div > div:nth-of-type(2) > div:nth-of-type(2) span {
+    font-size: 18px;
+  }
+  body #section1 > div > div:nth-of-type(2) > div:nth-of-type(2) > span {
+    left: -58%;
+    top: 45%;
+    width: 100px;
+    height: 50px;
+    font-size: 18px;
+  }
+  body #section1 > div > div:nth-of-type(2) > div:nth-of-type(3) {
+    transform: translateY(-12px);
+  }
+  body #section1 .up {
+    font-size: 18px;
+  }
+  body #section1 .down {
+    font-size: 18px;
+  }
+  body #pop {
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -100%);
+    width: 70%;
+    height: 25%;
+    border: 2px solid rgb(0, 104, 0);
+    font-size: 16px;
+  }
+  body #pop span {
+    top: -2%;
+    left: 96%;
+    font-size: 22px;
+  }
+}
+@media screen and (min-width: 992px) {
+  body #section1 > span {
+    margin-bottom: -35px;
+    font-size: 28px;
+  }
+  body #section1 > div {
+    border-radius: 25px;
+    transform: translateY(-70px);
+    width: 70%;
+    height: 55%;
+  }
+  body #section1 > div > div:nth-of-type(1) {
+    color: white;
+  }
+  body #section1 > div > div:nth-of-type(1) input {
+    border: 1px solid rgb(28, 28, 28);
+    height: 40% !important;
+    border-radius: 6px;
+    font-size: 18px;
+  }
+  body #section1 > div > div:nth-of-type(1) button {
+    border-radius: 6px;
+    font-size: 18px;
+    height: 40% !important;
+  }
+  body #section1 > div > div:nth-of-type(2) > div {
+    font-size: 20px;
+  }
+  body #section1 > div > div:nth-of-type(2) > div:nth-of-type(1) {
+    font-size: 28px;
+  }
+  body #section1 > div > div:nth-of-type(2) > div:nth-of-type(2) {
+    font-size: 24px;
+  }
+  body #section1 > div > div:nth-of-type(2) > div:nth-of-type(2) span {
+    font-size: 20px;
+  }
+  body #section1 > div > div:nth-of-type(2) > div:nth-of-type(2) > span {
+    left: -50%;
+    top: 45%;
+    width: 100px;
+    height: 50px;
+    font-size: 18px;
+  }
+  body #section1 > div > div:nth-of-type(2) > div:nth-of-type(3) {
+    transform: translateY(-20px);
+  }
+  body #section1 .up {
+    font-size: 18px;
+  }
+  body #section1 .down {
+    font-size: 18px;
+  }
+  body #pop {
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -100%);
+    width: 70%;
+    height: 25%;
+    border: 2px solid rgb(0, 104, 0);
+    font-size: 16px;
+  }
+  body #pop span {
+    top: -2%;
+    left: 96%;
+    font-size: 22px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  body #section1 > span {
+    margin-bottom: -25px;
+    font-size: 35px;
+  }
+  body #section1 > div {
+    border-radius: 26px;
+    transform: translateY(-70px);
+    width: 50%;
+    height: 55%;
+  }
+  body #section1 > div > div:nth-of-type(1) {
+    color: white;
+  }
+  body #section1 > div > div:nth-of-type(1) input {
+    border: 1px solid rgb(28, 28, 28);
+    height: 45% !important;
+    border-radius: 8px;
+    font-size: 20px;
+  }
+  body #section1 > div > div:nth-of-type(1) button {
+    border-radius: 8px;
+    font-size: 20px;
+    height: 45% !important;
+  }
+  body #section1 > div > div:nth-of-type(2) > div {
+    font-size: 20px;
+  }
+  body #section1 > div > div:nth-of-type(2) > div:nth-of-type(1) {
+    font-size: 25px;
+  }
+  body #section1 > div > div:nth-of-type(2) > div:nth-of-type(2) {
+    font-size: 26px;
+  }
+  body #section1 > div > div:nth-of-type(2) > div:nth-of-type(2) span {
+    font-size: 23px;
+  }
+  body #section1 > div > div:nth-of-type(2) > div:nth-of-type(2) > span {
+    left: -65%;
+    top: 46%;
+    width: 100px;
+    height: 50px;
+    font-size: 18px;
+  }
+  body #section1 > div > div:nth-of-type(2) > div:nth-of-type(3) {
+    transform: translateY(-18px);
+  }
+  body #section1 .up {
+    font-size: 22px;
+  }
+  body #section1 .down {
+    font-size: 22px;
+  }
+  body #pop {
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -100%);
+    width: 50%;
+    height: 25%;
+    border: 2px solid rgb(0, 104, 0);
+    font-size: 22px;
+  }
+  body #pop span {
+    top: -2%;
+    left: 96%;
+    font-size: 24px;
+  }
+}/*# sourceMappingURL=local.css.map */

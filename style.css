@@ -1,0 +1,91 @@
+body {
+  position: relative;
+  background-image: url(https://4kwallpapers.com/images/walls/thumbs_3t/450.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+body * {
+  font-family: "Quicksand", sans-serif;
+}
+body #section1 > span {
+  font-weight: bold;
+  color: rgb(227, 227, 227);
+  font-family: "Poppins", sans-serif;
+}
+body #section1 > div {
+  background-color: rgba(0, 0, 0, 0.749);
+  color: white;
+}
+body #section1 > div > div {
+  background-color: rgba(0, 0, 0, 0.749);
+}
+body #section1 > div > div:nth-of-type(1) {
+  color: white;
+  background-color: rgba(88, 253, 121, 0.788);
+}
+body #section1 > div > div:nth-of-type(1) input {
+  background-color: rgba(255, 255, 255, 0.822);
+  caret-color: rgb(20, 179, 60);
+  color: rgb(35, 35, 35);
+}
+body #section1 > div > div:nth-of-type(1) button {
+  color: black;
+  border: 1px solid rgb(28, 28, 28);
+  background-color: rgba(255, 255, 255, 0.822);
+}
+body #section1 > div > div:nth-of-type(1) button:active {
+  transform: scale(0.96);
+}
+body #section1 > div > div:nth-of-type(2) > div:nth-of-type(1) {
+  border-bottom: 1px solid white;
+}
+body #section1 > div > div:nth-of-type(2) > div:nth-of-type(2) {
+  position: relative;
+  color: rgb(82, 255, 47);
+}
+body #section1 > div > div:nth-of-type(2) > div:nth-of-type(2) > span {
+  color: white;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body #section1 > div > div:nth-of-type(2) > div:nth-of-type(2) > span span:nth-of-type(1) {
+  color: rgb(247, 82, 11);
+}
+body #section1 > div > div:nth-of-type(2) > div:nth-of-type(2) > span span:nth-of-type(2) {
+  color: rgb(0, 195, 255);
+}
+body #section1 > div > div:nth-of-type(2) > div:nth-of-type(4) {
+  border-top: 1px solid white;
+  color: white;
+}
+body #section1 > div > div:nth-of-type(2) > div:nth-of-type(4) span {
+  color: white;
+}
+body #section1 .up {
+  color: rgb(247, 82, 11);
+}
+body #section1 #up {
+  color: rgb(247, 82, 11);
+}
+body #section1 .down {
+  color: rgb(0, 195, 255);
+}
+body #section1 #down {
+  color: rgb(0, 195, 255);
+}
+body #pop {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(0, 179, 0);
+  color: white;
+  display: none;
+}
+body #pop span {
+  position: absolute;
+  color: white;
+  cursor: pointer;
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,348 @@
+@media screen and (max-width:576px){
+    body{
+        #section1{
+            width: 100% !important;
+            height: 100vh !important;
+            >span{
+                margin-bottom: -50px;
+                font-size: 20px;
+    
+            }
+            >div{
+                border-radius: 20px;
+                transform: translateY(-70px);
+                width: 95%;
+                height: 55%;
+                >div{
+                    &:nth-of-type(1){
+                        color: white;
+                        input{
+                            border: 1px solid rgb(28, 28, 28);
+                            height: 36% !important;
+                            border-radius: 5px;
+                            font-size: 14px;
+                            
+                        }
+                        button{
+                            border-radius: 5px;
+                            font-size: 14px;
+                            height: 36% !important;
+                        }
+                    }
+                    &:nth-of-type(2){
+                        >div{
+                              font-size: 12px;
+                              &:nth-of-type(1){
+                                font-size: 14px;
+                              }
+                              &:nth-of-type(2){
+                                font-size: 18px;
+                                
+                                span{
+                                    font-size: 11px;
+                                }
+                                >span{
+                                    left: -91%;
+                                    top: 40%;
+                                    width: 100px;
+                                    height: 50px;
+                                    font-size: 14px;
+
+                                }
+                              }
+                              &:nth-of-type(3){
+                               transform: translateY(-12px);
+                              }
+                      
+                        }
+                    }
+                }
+    
+            }
+            .up{
+                font-size: 12px;
+            }
+            .down{
+                font-size: 12px;
+            }
+        
+        }
+        #pop{
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%,-100%);
+            width: 80%;
+            height: 25%;
+            border: 2px solid rgb(0, 104, 0);
+            font-size: 16px;
+            span{
+                top: -2%;
+                left: 93%;
+                font-size: 20px;
+            }
+        }
+    }
+
+}
+@media screen and (min-width:577px){
+    body{
+        #section1{
+            width: 100% !important;
+            height: 100vh !important;
+            >span{
+                margin-bottom: -45px;
+                font-size: 22px;
+    
+            }
+            >div{
+                border-radius: 22px;
+                transform: translateY(-70px);
+                width: 90%;
+                height: 55%;
+                >div{
+                    &:nth-of-type(1){
+                        color: white;
+                        input{
+                            border: 1px solid rgb(28, 28, 28);
+                            height: 36% !important;
+                            border-radius: 5px;
+                            font-size: 16px;
+                            
+                        }
+                        button{
+                            border-radius: 5px;
+                            font-size: 16px;
+                            height: 36% !important;
+                        }
+                    }
+                    &:nth-of-type(2){
+                        >div{
+                              font-size: 18px;
+                              &:nth-of-type(1){
+                                font-size: 18px;
+                              }
+                              &:nth-of-type(2){
+                                font-size: 22px;
+                                
+                                span{
+                                    font-size: 18px;
+                                }
+                                >span{
+                                    left: -58%;
+                                    top: 45%;
+                                    width: 100px;
+                                    height: 50px;
+                                    font-size: 18px;
+
+                                }
+                              }
+                              &:nth-of-type(3){
+                               transform: translateY(-12px);
+                              }
+                      
+                        }
+                    }
+                }
+    
+            }
+            .up{
+                font-size: 18px;
+            }
+            .down{
+                font-size: 18px;
+            }
+        
+        }
+        #pop{
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%,-100%);
+            width: 70%;
+            height: 25%;
+            border: 2px solid rgb(0, 104, 0);
+            font-size: 16px;
+            span{
+                top: -2%;
+                left: 96%;
+                font-size: 22px;
+            }
+        }
+    }
+
+}
+@media screen and (min-width:768px){
+
+}
+@media screen and (min-width:992px){
+    body{
+        #section1{
+            >span{
+                margin-bottom: -35px;
+                font-size: 28px;
+    
+            }
+            >div{
+                border-radius: 25px;
+                transform: translateY(-70px);
+                width: 70%;
+                height: 55%;
+                >div{
+                    &:nth-of-type(1){
+                        color: white;
+                        input{
+                            border: 1px solid rgb(28, 28, 28);
+                            height: 40% !important;
+                            border-radius: 6px;
+                            font-size: 18px;
+                            
+                        }
+                        button{
+                            border-radius: 6px;
+                            font-size: 18px;
+                            height: 40% !important;
+                        }
+                    }
+                    &:nth-of-type(2){
+                        >div{
+                              font-size: 20px;
+                              &:nth-of-type(1){
+                                font-size: 28px;
+                              }
+                              &:nth-of-type(2){
+                                font-size: 24px;
+                                
+                                span{
+                                    font-size: 20px;
+                                }
+                                >span{
+                                    left: -50%;
+                                    top: 45%;
+                                    width: 100px;
+                                    height: 50px;
+                                    font-size: 18px;
+
+                                }
+                              }
+                              &:nth-of-type(3){
+                               transform: translateY(-20px);
+                              }
+                      
+                        }
+                    }
+                }
+    
+            }
+            .up{
+                font-size: 18px;
+            }
+            .down{
+                font-size: 18px;
+            }
+        
+        }
+        #pop{
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%,-100%);
+            width: 70%;
+            height: 25%;
+            border: 2px solid rgb(0, 104, 0);
+            font-size: 16px;
+            span{
+                top: -2%;
+                left: 96%;
+                font-size: 22px;
+            }
+        }
+    }
+
+}
+@media screen and (min-width:1200px){
+
+    body{
+        #section1{
+            >span{
+                margin-bottom: -25px;
+                font-size: 35px;
+    
+            }
+            >div{
+                border-radius: 26px;
+                transform: translateY(-70px);
+                width: 50%;
+                height: 55%;
+                >div{
+                    &:nth-of-type(1){
+                        color: white;
+                        input{
+                            border: 1px solid rgb(28, 28, 28);
+                            height: 45% !important;
+                            border-radius: 8px;
+                            font-size: 20px;
+                            
+                        }
+                        button{
+                            border-radius: 8px;
+                            font-size: 20px;
+                            height: 45% !important;
+                        }
+                    }
+                    &:nth-of-type(2){
+                        >div{
+                              font-size: 20px;
+                              &:nth-of-type(1){
+                                font-size: 25px;
+                              }
+                              &:nth-of-type(2){
+                                font-size: 26px;
+                                
+                                span{
+                                    font-size: 23px;
+                                }
+                                >span{
+                                    left: -65%;
+                                    top: 46%;
+                                    width: 100px;
+                                    height: 50px;
+                                    font-size: 18px;
+
+                                }
+                              }
+                              &:nth-of-type(3){
+                               transform: translateY(-18px);
+                              }
+                      
+                        }
+                    }
+                }
+    
+            }
+            .up{
+                font-size: 22px;
+            }
+            .down{
+                font-size: 22px;
+            }
+        
+        }
+        #pop{
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%,-100%);
+            width: 50%;
+            height: 25%;
+            border: 2px solid rgb(0, 104, 0);
+            font-size: 22px;
+            span{
+                top: -2%;
+                left: 96%;
+                font-size: 24px;
+            }
+        }
+    }
+
+}
+@media screen and (min-width:1400px){
+
+}
+
